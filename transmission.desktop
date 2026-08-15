@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Transmission
+Comment=Download and share files over BitTorrent.
+Exec=transmission-gtk %U
+Icon=transmission
+Terminal=false
+Categories=Network;FileTransfer;
+
