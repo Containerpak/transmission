@@ -43,6 +43,7 @@
     ],
     "env": [],
     "network": true,
+    "hostNetwork": true,
     "process": false,
     "userNamespaces": true,
     "memoryMaxMB": 0,
