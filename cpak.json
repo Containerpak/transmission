@@ -4,7 +4,7 @@
   "name": "Transmission",
   "description": "Download and share files over BitTorrent.",
   "version": "4.1.1",
-  "image": "ghcr.io/containerpak/transmission@sha256:9f76c473118486345e249901c83db127422d914e0cf7a828945cb49ea9fb5812",
+  "image": "ghcr.io/containerpak/transmission@sha256:19233c5653d9a66311091434ca0c7a6ad596b35e5690a99283f788e4179c8aa4",
   "binaries": [
     "/usr/bin/transmission-gtk"
   ],
